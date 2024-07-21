@@ -7,7 +7,7 @@ use Illuminate\Support\Facades\Schema;
 class CreateTasksTable extends Migration
 {
     /**
-     * Run the migrations.
+     * Run the migrations. yes
      *
      * @return void
      */
